@@ -1,3 +1,6 @@
 <php 
-Include "main.html";
+if (1) {
+	Include "main.html";
+}
+
 ?>
